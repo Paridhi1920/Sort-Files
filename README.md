@@ -6,12 +6,9 @@ This script helps you organize files in a specified directory into subfolders ba
 
 1. **Requirements**: Ensure you have Python installed on your system.
 
-2. **Setup**: Save the script in a `.py` file, for example, `organize_files.py`.
+2. **Setup**: Save the script in a `.py` file.
 
-3. **Run the Script**: Open a terminal or command prompt, navigate to the directory where your script is saved, and run the following command:
-    ```bash
-    python organize_files.py
-    ```
+3. **Run the Script**: Open a terminal or command prompt, navigate to the directory where your script is saved.
 
 4. **Input the Directory**: When prompted, enter the path to the directory containing the files you want to organize.
 
